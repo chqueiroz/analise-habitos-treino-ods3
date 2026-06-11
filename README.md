@@ -31,6 +31,13 @@ A pesquisa considerou:
 - Objetivos dos participantes
 - Consistência da prática de exercícios
 
+## Principais Resultados
+
+- 60 participantes analisados
+- Idade média de 37 anos
+- Frequência de treino mais comum: 3 dias por semana
+- Maioria dos participantes relatou manter consistência nos treinos
+
 ## Gráficos Gerados
 
 ### Distribuição das Idades
