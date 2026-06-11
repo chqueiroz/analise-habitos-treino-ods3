@@ -38,6 +38,12 @@ A pesquisa considerou:
 - Frequência de treino mais comum: 3 dias por semana
 - Maioria dos participantes relatou manter consistência nos treinos
 
+## Relatório
+
+O relatório completo do projeto pode ser consultado em:
+
+[Relatório Final](relatorio/relatorio_final.pdf)
+
 ## Gráficos Gerados
 
 ### Distribuição das Idades
