@@ -1,0 +1,61 @@
+﻿idade,sexo,dias_treino,duracao,objetivo,experiencia,consistente
+60,M,2,60-90 min,Emagrecimento,6 meses a 1 ano,Sim
+41,F,2,Mais de 90 min,Condicionamento físico,Menos de 6 meses,Sim
+39,F,4,30-60 min,Saúde e bem-estar,6 meses a 1 ano,Sim
+32,M,5,30-60 min,Saúde e bem-estar,1-3 anos,Não
+44,F,2,60-90 min,Hipertrofia,6 meses a 1 ano,Sim
+18,F,3,60-90 min,Hipertrofia,Menos de 6 meses,Sim
+38,M,4,30-60 min,Condicionamento físico,6 meses a 1 ano,Sim
+31,F,3,30-60 min,Hipertrofia,Mais de 3 anos,Não
+44,M,4,60-90 min,Condicionamento físico,Mais de 3 anos,Sim
+19,M,5,60-90 min,Hipertrofia,6 meses a 1 ano,Sim
+22,F,3,60-90 min,Hipertrofia,1-3 anos,Sim
+28,M,2,60-90 min,Condicionamento físico,1-3 anos,Sim
+26,F,2,Mais de 90 min,Saúde e bem-estar,Mais de 3 anos,Sim
+48,M,3,60-90 min,Saúde e bem-estar,1-3 anos,Sim
+24,F,3,60-90 min,Saúde e bem-estar,Menos de 6 meses,Sim
+43,F,3,30-60 min,Emagrecimento,Menos de 6 meses,Sim
+51,M,4,60-90 min,Hipertrofia,6 meses a 1 ano,Sim
+60,F,3,60-90 min,Hipertrofia,6 meses a 1 ano,Não
+37,M,6,30-60 min,Hipertrofia,6 meses a 1 ano,Sim
+50,M,2,30-60 min,Saúde e bem-estar,1-3 anos,Sim
+29,M,2,30-60 min,Emagrecimento,1-3 anos,Sim
+58,M,2,60-90 min,Hipertrofia,6 meses a 1 ano,Sim
+37,M,3,30-60 min,Hipertrofia,6 meses a 1 ano,Sim
+19,F,6,60-90 min,Condicionamento físico,Menos de 6 meses,Sim
+25,F,3,60-90 min,Condicionamento físico,6 meses a 1 ano,Sim
+19,F,5,30-60 min,Emagrecimento,6 meses a 1 ano,Sim
+40,M,4,60-90 min,Saúde e bem-estar,Menos de 6 meses,Sim
+31,M,3,30-60 min,Condicionamento físico,6 meses a 1 ano,Sim
+47,M,5,30-60 min,Emagrecimento,1-3 anos,Não
+28,M,5,60-90 min,Emagrecimento,Mais de 3 anos,Não
+34,F,5,60-90 min,Hipertrofia,Menos de 6 meses,Sim
+45,F,2,Mais de 90 min,Saúde e bem-estar,6 meses a 1 ano,Sim
+22,F,2,60-90 min,Saúde e bem-estar,Mais de 3 anos,Sim
+18,F,5,30-60 min,Saúde e bem-estar,6 meses a 1 ano,Sim
+58,F,3,60-90 min,Condicionamento físico,Mais de 3 anos,Sim
+38,F,3,30-60 min,Emagrecimento,Menos de 6 meses,Sim
+34,F,4,60-90 min,Hipertrofia,Mais de 3 anos,Não
+24,M,4,30-60 min,Emagrecimento,1-3 anos,Sim
+25,F,5,30-60 min,Hipertrofia,Menos de 6 meses,Sim
+38,M,2,60-90 min,Hipertrofia,Menos de 6 meses,Não
+35,F,6,Menos de 30 minutos,Hipertrofia,6 meses a 1 ano,Sim
+43,M,5,Menos de 30 minutos,Hipertrofia,6 meses a 1 ano,Sim
+46,F,5,Mais de 90 min,Saúde e bem-estar,Mais de 3 anos,Não
+59,M,3,60-90 min,Condicionamento físico,6 meses a 1 ano,Sim
+34,M,3,Mais de 90 min,Emagrecimento,Mais de 3 anos,Sim
+23,M,4,30-60 min,Condicionamento físico,1-3 anos,Sim
+39,M,6,60-90 min,Hipertrofia,Mais de 3 anos,Sim
+47,M,2,Menos de 30 minutos,Hipertrofia,6 meses a 1 ano,Sim
+36,M,3,60-90 min,Condicionamento físico,1-3 anos,Sim
+41,M,2,60-90 min,Condicionamento físico,1-3 anos,Sim
+54,M,3,30-60 min,Saúde e bem-estar,Menos de 6 meses,Sim
+55,M,2,Mais de 90 min,Saúde e bem-estar,6 meses a 1 ano,Sim
+20,M,3,60-90 min,Saúde e bem-estar,Menos de 6 meses,Não
+55,M,4,30-60 min,Condicionamento físico,6 meses a 1 ano,Não
+42,M,2,30-60 min,Condicionamento físico,1-3 anos,Sim
+29,F,4,Mais de 90 min,Hipertrofia,Menos de 6 meses,Sim
+53,M,5,30-60 min,Condicionamento físico,1-3 anos,Não
+29,F,3,Mais de 90 min,Hipertrofia,Mais de 3 anos,Não
+23,F,4,60-90 min,Condicionamento físico,1-3 anos,Não
+39,M,2,60-90 min,Saúde e bem-estar,6 meses a 1 ano,Não
