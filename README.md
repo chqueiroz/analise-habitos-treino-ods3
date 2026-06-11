@@ -42,7 +42,7 @@ A pesquisa considerou:
 
 O relatório completo do projeto pode ser consultado em:
 
-[Relatório Final](relatorio/relatorio_final.pdf)
+[Relatório Final](relatorio.pdf)
 
 ## Gráficos Gerados
 
